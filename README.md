@@ -8,6 +8,7 @@ This project was built in response to a real-world brief: given two years of raw
 
 The dataset contains approximately 82,000 rows of transaction-level data across two fiscal year tabs, and required careful handling before any analysis could begin.
 
+![Google_sheets_dashboard screenshot](images/Sales_Discount_Performance_Analysis_Google_sheets.png)
 
 ### The Data
 The workbook contains three sheets:
