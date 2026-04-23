@@ -3,7 +3,7 @@ Store Discount Performance Analysis — Google Sheets
 A two-year retail discount analysis built entirely in Google Sheets, examining how discount strategy across four store branches relates to revenue performance across fiscal years 2024–25 and 2025–26.
 
 
-### Project Overview
+### Project Overview - [Google sheet link](https://docs.google.com/spreadsheets/d/1wOctwBUPFwF_IClBvnqHEjaeSiJq6W3p9-ljQqsHoW0/edit?usp=sharing)
 This project was built in response to a real-world brief: given two years of raw store sales data, complete an Overview tab in Google Sheets that answers specific business questions about discounting, store performance, and category contribution — using formulas, tabular summaries, and visualisations.
 
 The dataset contains approximately 82,000 rows of transaction-level data across two fiscal year tabs, and required careful handling before any analysis could begin.
